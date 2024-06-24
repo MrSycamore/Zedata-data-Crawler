@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8350600-2eac-4710-9de8-eca2cf8d416f" name="更改" comment="">
+    <list default="true" id="f8350600-2eac-4710-9de8-eca2cf8d416f" name="更改" comment="1212">
       <change afterPath="$PROJECT_DIR$/Crawler-oldCar/src/main/java/zkzd/com/Controller/ACS_controller.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Crawler-oldCar/src/main/java/zkzd/com/Entity/Bean_diyi_detail_new.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +25,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="2ae2f4cc-0a23-4788-9c3f-740d959fc40a" />
+    <option name="defaultAccountId" value="a4d27093-25ba-4ce9-be4e-00f7246d24b9" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -61,7 +62,7 @@
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "http.proxy",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -100,6 +101,9 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
       <changelist id="f8350600-2eac-4710-9de8-eca2cf8d416f" name="更改" comment="" />
@@ -119,8 +123,17 @@
       <workItem from="1718956738553" duration="1873000" />
       <workItem from="1719218556640" duration="2413000" />
       <workItem from="1719243308947" duration="615000" />
-      <workItem from="1719243981463" duration="1496000" />
+      <workItem from="1719243981463" duration="2131000" />
+      <workItem from="1719246862490" duration="637000" />
     </task>
+    <task id="LOCAL-00001" summary="1212">
+      <created>1719246298854</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719246298854</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,11 +144,27 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1212" />
+    <option name="LAST_COMMIT_MESSAGE" value="1212" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
